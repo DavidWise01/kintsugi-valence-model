@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1470
+slug  : kintsugi-valence-model
+seal  : fd5dddb893621e61cb822baf59c2444ebf674944f7e416a867ab5826e05bfebf
+prev  : f3447e22c41a77b2a9c86231c7723ee4a0ee0133c6453369dd53b7d366e2f09f
+link  : 81da908eeeee6dc0e787d76afe75da66acdeaa6a0a4997bffa78dc85f5b9ccb1
+head  : 81da908eeeee6dc0e787d76afe75da66acdeaa6a0a4997bffa78dc85f5b9ccb1
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
